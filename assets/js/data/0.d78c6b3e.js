@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{211:function(n){n.exports={data:{blogPost:{content:"<ul>\n<li>Master Stroke</li>\n<li>Excellent</li>\n</ul>\n",title:"Banana Pancakes"}}}}}]);

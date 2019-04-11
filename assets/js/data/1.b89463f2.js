@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{212:function(n){n.exports={data:{blogPost:{content:"<ul>\n<li>It's a p0st</li>\n<li>It's amazing</li>\n</ul>\n",title:"Monkeys on Planet Banana"}}}}}]);
