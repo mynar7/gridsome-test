@@ -11,7 +11,7 @@
       </nav>
     </header>
     <slot/>
-    <LatestPosts v-if="notOnPosts"/>
+    <LatestPosts v-show="!this.$route.path.includes('/about')"/>
   </div>
 
 </template>
@@ -22,9 +22,7 @@ export default {
     LatestPosts
   },
   computed: {
-    notOnPosts() {
-      return !window.location.pathname.includes('/posts')
-    }
+
   }
 }
 </script>
